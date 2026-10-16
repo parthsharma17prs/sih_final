@@ -36,3 +36,7 @@ firebase-credentials.json
 token.json
 *.db
 public/models/
+
+# Agent skills & tooling
+.agents/
+skills-lock.json
